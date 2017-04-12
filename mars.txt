@@ -1,2 +1,3 @@
 put stuff here and let me know how it goes
 here is the second note for mars.txt
+another line
